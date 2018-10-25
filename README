@@ -1,0 +1,9 @@
+Troisieme Exemple.
+
+Introduction a make:
+montrer comment constituer les dependances
+montrer comment creer des cibles
+
+montrer wildcard, $^ $< et $@ et 
+montrer les options make -n et make -p
+
